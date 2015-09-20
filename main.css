@@ -1,0 +1,105 @@
+body {background-color: #999;
+
+	font-family:Palatino Linotype;
+}
+h1 {font-family:Lucida Calligraphy;
+text-align:left;}
+h2 {font-family:Lucida Calligraphy;
+text-align:center}
+h3 {font-family:Lucida Calligraphy;}
+ul {
+    text-decoration: underline;
+}
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+div.navbar a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: Bold;
+    color: #000000;
+    background-color: #376AB8;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #4D94FF;
+}
+
+div.face div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: auto;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;}
+
+div.center{
+    margin: auto;
+    width: 1000px;
+}
